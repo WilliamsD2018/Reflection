@@ -5,7 +5,8 @@
 In the past week I've learned much about github and its commands.
 I have made my self more familiar with coding and its principles.
 I understand very little about Python but the more I practice it the simpler it gets.
-I know how to use the simple folders and files commands whithout having to check 
+I know how to use the simple folders and files commands whithout having to check .
+
 ---
 
 # Reflection 1
