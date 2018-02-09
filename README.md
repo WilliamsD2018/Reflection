@@ -1,3 +1,14 @@
+# Reclection 3
+
+## 2/9/2018
+
+This past week I have gone more into the comands we can use in python.
+We have also learned to write complete commands to calculate a problem.
+I will always wonder all the things I can do in Python and the things it can do with me.
+To acctually be able to preform in the class it is necesary to practice outside the class. 
+
+---
+
 # Reflection 2
 
 ## 2/2/2018
