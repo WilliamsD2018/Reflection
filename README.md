@@ -1,3 +1,14 @@
+# Reflection 4
+
+## 2/16/2018
+
+In th last week ive worked hrd on many new things most of them i didnot understand copetly
+but i think with practice and dedication i will be able to do all these easy.
+What we looked at the most was the string format.
+And today we worked on our project that we will be working on for the rest of the semester.
+
+---
+
 # Reclection 3
 
 ## 2/9/2018
