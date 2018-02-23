@@ -1,3 +1,14 @@
+# Reflection 5
+
+## 2/23/2018
+
+In the past week I have discoverd many things I can do with this program. I am more familiar
+with my commands and I am learning much faster than I was at the start of the semester.
+The main thing we learned to do was the ue if the if, else statments. I belive they are 
+an important part on the develpoment of computers and I am looking forward to learn more.
+
+---
+
 # Reflection 4
 
 ## 2/16/2018
