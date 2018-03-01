@@ -1,3 +1,15 @@
+# Reflection 6
+
+## 3/1/2018
+
+This past week I have learned many new and different things. One of these things that we
+saw in the past but used recently in our code was the use of a random number. This is 
+something I feel is very important in coding because it adds many chalenges and is used
+in many games. Also we continued with the if statments which are getting way more complicated
+the more we get into them.
+
+---
+
 # Reflection 5
 
 ## 2/23/2018
