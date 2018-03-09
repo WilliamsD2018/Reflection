@@ -1,3 +1,13 @@
+# Reflection 7
+
+## 3/9/2018
+
+In the pas week I have spent most of my time in Hwk6 whis is being a little hard for me,
+it is difficult to do my homework because I am a 5-day which takes like 80% of the time I 
+could sepen on the assignments. I have learned more about whle statments and I am getting 
+more ideas for my google friday. I hope by the endo of the month I have something planned.
+---
+
 # Reflection 6
 
 ## 3/1/2018
