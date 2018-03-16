@@ -1,3 +1,14 @@
+# Reflection 8
+
+## 3/16/2018
+
+The past week we have worcked more on funtions. It is getting very hard as we go and I 
+belive we are going to fast, sometimes I feel completly lost because I just don't understand
+what I'm doing. I think we re going way too fst on each thing we are learning. But so far 
+I dont think I'm doing so bad, but functions can get pretty long. I'm stuck in the homework.
+ 
+---
+
 # Reflection 7
 
 ## 3/9/2018
@@ -6,6 +17,7 @@ In the pas week I have spent most of my time in Hwk6 whis is being a little hard
 it is difficult to do my homework because I am a 5-day which takes like 80% of the time I 
 could sepen on the assignments. I have learned more about whle statments and I am getting 
 more ideas for my google friday. I hope by the endo of the month I have something planned.
+
 ---
 
 # Reflection 6
