@@ -1,3 +1,14 @@
+# Reflection 9
+
+## 4/13/2018
+
+This past weekend we have had a better look on "def". Which has been a challenge for me to 
+understand and use. The last homeworck assignment was about a dice roll, we had to create a 
+game using functions. It was pretty hardat first, but the more you keep trying and understanding
+what is going on, the easier it wil get. I am pretty happy that homeworcks are not due on Mondays anymore
+because it was harder for me to complete them scince i am a 5-day student. 
+---
+
 # Reflection 8
 
 ## 3/16/2018
