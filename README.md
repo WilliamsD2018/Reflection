@@ -1,3 +1,14 @@
+# Reflection 10
+
+## 5/11/2018
+
+In the past weeks many thng have happened in my programing abilities. The entire class has benn chalenged with many code problems
+we have don and resolved together. I belive these code wars have honed my coding skills. Mr. was gone for some time but we were sill able to maintain our 
+level. I also had to resolve a coding problem similar to the past one. I had to create my own dice game with new rules. This was fairly easy because of the
+time I spent worcking on it. Even though I was not able to complete it, I still got a lot out of it.
+
+---
+
 # Reflection 9
 
 ## 4/13/2018
