@@ -1,3 +1,12 @@
+# LAST REFLECTION
+
+## 05/18/2018
+
+This year has been a great one, I have learned many things in very different areas. Computer programing 1 has clearly been a challenge for me. And a reason for this is because of the amount of reserch and time you have to put into each topic, each problem, each code. All the study hours were I thought I was on the right track but insted I was completely lost.
+I will remember this class for many years and each time someone asks me if they should take programing 1, I will tell them "It was certanly hard but it was worth it". I leave this class better than when I first came in and hopefully I do wellin my final.
+
+---
+
 # Reflection 10
 
 ## 5/11/2018
